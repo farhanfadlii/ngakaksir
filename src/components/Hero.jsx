@@ -69,6 +69,9 @@ function Hero() {
   function play20() {
     new Audio(YoutubeOren).play()
   }
+  function play21() {
+    new Audio(OyNgopiOy).play()
+  }
   
 
   return (
@@ -413,6 +416,22 @@ function Hero() {
               </div>
               <div className=''>
                 Youtube Oren
+              </div>  
+        </div>
+
+        <div className='flex flex-col items-center mt-12'>
+              <div>
+          <motion.button 
+                whileHover={{scale: 1.1}}
+                whileTap = {{scale: 0.8}}
+                className='bg-button text-btnText rounded-3xl px-4 py-auto shadow-lg'
+                onClick={play21}
+                > 
+                <AiFillSound className=''/>
+          </motion.button>
+              </div>
+              <div className=''>
+                Ngopi Oy
               </div>  
         </div>
 
