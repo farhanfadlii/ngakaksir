@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ngakaksir/static/css/main.17fb0e7f.css",
+    "main.js": "/ngakaksir/static/js/main.ac7324c4.js",
+    "static/media/YaNdakTau.mp3": "/ngakaksir/static/media/YaNdakTau.07e13ca6b8e9313587a0.mp3",
+    "static/media/Acumalaka2.mp3": "/ngakaksir/static/media/Acumalaka2.fe78f6a3ed8a522fda01.mp3",
+    "static/media/OyNgopiOy.mp3": "/ngakaksir/static/media/OyNgopiOy.b98158d7d7480e9e0f7b.mp3",
+    "static/media/Acumalaka1.mp3": "/ngakaksir/static/media/Acumalaka1.3a47e656f2ff0c809a83.mp3",
+    "static/media/Jangkrik.mp3": "/ngakaksir/static/media/Jangkrik.f9231a67047c4925b174.mp3",
+    "static/media/GanjelTo.mp3": "/ngakaksir/static/media/GanjelTo.0ecf8627a85c7001e737.mp3",
+    "static/media/Telkomsel.mp3": "/ngakaksir/static/media/Telkomsel.3e050e81060cc69c0dcd.mp3",
+    "static/media/IntroAsade.mp3": "/ngakaksir/static/media/IntroAsade.897c101713f65ae2cb56.mp3",
+    "static/media/YoutubeOren.mp3": "/ngakaksir/static/media/YoutubeOren.650a0b985cb16b35bf5d.mp3",
+    "static/media/WoyNgopi.mp3": "/ngakaksir/static/media/WoyNgopi.aa7f9330746e9a346418.mp3",
+    "static/media/Darawet.mp3": "/ngakaksir/static/media/Darawet.07bb6addb5278410d890.mp3",
+    "static/media/Hooh.mp3": "/ngakaksir/static/media/Hooh.2ca197d798a04c16ee21.mp3",
+    "static/media/SiOptimumPride.mp3": "/ngakaksir/static/media/SiOptimumPride.211c09143e70fce92984.mp3",
+    "static/media/Bakso.mp3": "/ngakaksir/static/media/Bakso.e7d8b2581a513877e96a.mp3",
+    "static/media/Moan.mp3": "/ngakaksir/static/media/Moan.3cbc18d2c882a212cf12.mp3",
+    "static/media/Basreng.mp3": "/ngakaksir/static/media/Basreng.ac3704d105cf6ea8dfed.mp3",
+    "static/media/AyPepe.mp3": "/ngakaksir/static/media/AyPepe.2f4daf954e426872a631.mp3",
+    "static/media/ApaanTuh.mp3": "/ngakaksir/static/media/ApaanTuh.5e92d023cc92a16b085c.mp3",
+    "static/media/OptimumPrideSound.mp3": "/ngakaksir/static/media/OptimumPrideSound.56f51322b187aa87170b.mp3",
+    "static/media/NgeTeh.mp3": "/ngakaksir/static/media/NgeTeh.da68025a8e00b760348b.mp3",
+    "static/media/MemangSetan.mp3": "/ngakaksir/static/media/MemangSetan.f2727062e70ae750718c.mp3",
+    "index.html": "/ngakaksir/index.html",
+    "main.17fb0e7f.css.map": "/ngakaksir/static/css/main.17fb0e7f.css.map",
+    "main.ac7324c4.js.map": "/ngakaksir/static/js/main.ac7324c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fb0e7f.css",
+    "static/js/main.ac7324c4.js"
+  ]
+}
